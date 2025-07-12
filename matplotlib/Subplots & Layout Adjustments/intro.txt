@@ -1,0 +1,16 @@
+SUBPLOT
+- To plot 2 different graphs/visuals within same canvas (expanses as bar and profits as line)
+
+Advantages
+- multiple charts- space
+- analyse related data simultaneously
+
+ESSENTIAL SUB-PLOT FUNCTIONS in MATPLOTLIB
+
+# subplot()                 # Varied infographics from 1 dataset simultaneously
+# plt.tight_layout()        # AUtomatic Adjustment [To be used just befor plt.show()]
+
+
+# Saving figures for future purposes
+savefig('filename.extension', dpi = value, bbox_inches = 'tight')
+

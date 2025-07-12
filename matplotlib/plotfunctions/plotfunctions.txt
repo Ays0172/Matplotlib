@@ -1,0 +1,14 @@
+# plt.plot(x,y,[optional]color= 'color_name, line style= "--", linewidth = value, marker = 'o', lbale = 'label_name) 
+
+
+# plt.xlabel('text')
+# plt.ylabel('text')
+
+# plt.title('Title')
+# plt.legend(loc ='upper left' / 'lower right', fontsize = 12)
+# plt.grid(color = 'color', linestyle = ':', linwewidth =1)
+# Limit x-axis (1,4)
+# plt.ylim(0,5500)                                            # Limit y-axis variable
+# plt.xticks([1,2,3,4,5], ['M1', 'M2', 'M3', 'M4', 'M5'])
+
+# plt.show() - To render the infographic

@@ -1,0 +1,33 @@
+# Introduction to Metplotlib
+
+    - Used for Data Visulaisation
+    - Assesmbele various peices (analysis - boring data) into a colorful, clear and meaningful infographics
+ 
+ # Used infographics- Data Science
+  - Business/Marketing
+  - Healthcare
+  - Finance
+  - Education
+  - Government/Policy
+
+# Python libraries for Data Visulaisation
+    1. Matplotlib       : Basic and powerful plotting
+    2. Seaborn          : Statistical plots built on Metplotkib
+    3. Plotly           : Interactive, web-based visualisations
+    4. Pandas (plot)    : Quick plots from DataFrames
+    5. Bokeh            : Interactive real time visualisations
+
+# Advantages of Data Visulaisation  
+    1. Saves time
+    2. Easy Communication
+    3. Spot trends and Patterns
+    4. better Decision Marketing
+    5. Handles big data well
+
+pip3 install Matplotlib
+
+import matplotlib.pyplot as plot
+
+# Matplotlib Object Orientiated API (OOA)
+- it keeps track of all functions prior to showing the infographics
+ 

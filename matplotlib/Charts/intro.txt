@@ -1,0 +1,7 @@
+Types of charts
+
+- Bar graph : Comparison btw categories
+- Pie chart
+- Histograms
+
+- Scatter plots
